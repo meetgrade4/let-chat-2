@@ -1,0 +1,17 @@
+#logout{
+    float: right;
+    padding-top: 10px;
+    border-radius: 15;
+}
+
+.header{
+    color: black;font-family: 'Yeon Sung';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+}
+
+#body_2{
+    background-image: url("2bac.jpg");
+}
+
+.input_div_room_page{
+    
+}
